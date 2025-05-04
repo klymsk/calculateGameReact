@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calculateGameReact/static/css/main.656a5179.css",
-    "main.js": "/calculateGameReact/static/js/main.eea95301.js",
+    "main.css": "/calculateGameReact/static/css/main.33c5de1f.css",
+    "main.js": "/calculateGameReact/static/js/main.f5ff12c6.js",
     "static/js/453.e1ca3277.chunk.js": "/calculateGameReact/static/js/453.e1ca3277.chunk.js",
     "index.html": "/calculateGameReact/index.html",
-    "main.656a5179.css.map": "/calculateGameReact/static/css/main.656a5179.css.map",
-    "main.eea95301.js.map": "/calculateGameReact/static/js/main.eea95301.js.map",
+    "main.33c5de1f.css.map": "/calculateGameReact/static/css/main.33c5de1f.css.map",
+    "main.f5ff12c6.js.map": "/calculateGameReact/static/js/main.f5ff12c6.js.map",
     "453.e1ca3277.chunk.js.map": "/calculateGameReact/static/js/453.e1ca3277.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.656a5179.css",
-    "static/js/main.eea95301.js"
+    "static/css/main.33c5de1f.css",
+    "static/js/main.f5ff12c6.js"
   ]
 }
